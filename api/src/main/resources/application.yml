@@ -1,0 +1,8 @@
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: https://auth.zemenbank.com/auth/realms/test
+          # issuer-uri: https://auth.zemenbank.com/auth/realms/test
+

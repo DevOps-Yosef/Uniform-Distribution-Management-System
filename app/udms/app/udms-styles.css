@@ -1,0 +1,37 @@
+  .udms-red-text-color{
+    color: red !important;
+  }
+
+  .udms-header-bg-color{
+  background-color: #fff !important;
+  /* #d02149; */
+  }
+
+  .udms-main-text-color{
+    color: #d02149 !important;
+    font-weight: bold !important;
+  }
+
+  .udms-header-separator-style{
+    border-color: black !important;
+    border-right-width: 1px !important;
+  }
+
+  .udms-link-text-style{
+    text-decoration: none !important;
+    color: inherit !important;
+  }
+
+
+  .udms-header { text-align: center; }
+  .udms-features { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 30px; }
+  .udms-feature-card { border: 1px solid #ddd; padding: 20px; border-radius: 5px; text-align: center; }
+
+  .udms-hundred-percent-width {
+    width: 100%  !important;
+  }
+
+  /* td, th{
+    padding-right: 0px !important;
+  } */
+  
